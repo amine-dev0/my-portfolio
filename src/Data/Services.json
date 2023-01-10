@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "servicename": "Interface / Web Design",
+    "imgg": "https://cdn-icons-png.flaticon.com/128/1072/1072020.png"
+  },
+  {
+    "id": 2,
+    "servicename": "Web Development",
+    "imgg": "https://cdn-icons-png.flaticon.com/128/1197/1197460.png"
+  },
+  {
+    "id": 3,
+    "servicename": "Mobile Development",
+    "imgg": "https://cdn-icons-png.flaticon.com/128/1370/1370306.png"
+  }
+]

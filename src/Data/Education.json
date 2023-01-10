@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "courseyear":"2021-2022",
+        "institute":"The Superior School of Management of Computing and Telecommunications SupMTI OUJDA",
+        "description":"1st year engineering cycle : Computer Engineering"
+    },
+    {
+        "id":2,
+        "courseyear":"2019-2021",
+        "institute":"The Superior School of Management of Computing and Telecommunications SupMTI OUJDA",
+        "description":"Preparatory cycle"
+    },
+    {
+        "id":3,
+        "courseyear":"2018-2019",
+        "institute":"Missour Mixed High School",
+        "description":"Baccalauréat en Sciences physiques"
+    }
+    
+]
