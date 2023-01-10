@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Clone the repository
-- git clone (https://github.com/amine-dev0/portfolio.git)
+- git clone (https://github.com/amine-dev0/my-portfolio.git)
 
 2. Install the dependencies
 - npm install
