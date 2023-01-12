@@ -33,6 +33,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 - **Mohamed Amine Elghazoui** - [amine-dev0](https://github.com/amine-dev0)
 
+Preview : https://user-images.githubusercontent.com/119300043/212156821-8c6120a3-c434-4c88-9fdb-f43c4f6bf93c.mp4
+
 Screenshots From Portfolio : 
 ![Capture1](https://user-images.githubusercontent.com/119300043/212168892-a4016765-5e74-4901-83fb-7400c88afb7d.PNG)
 ![Capture2](https://user-images.githubusercontent.com/119300043/212168909-b769c3bd-4870-4c7d-ac1d-ce9aa4c936c9.PNG)
