@@ -34,4 +34,4 @@ These instructions will get you a copy of the project up and running on your loc
 - **Mohamed Amine Elghazoui** - [amine-dev0](https://github.com/amine-dev0)
 
 Tutorial
-https://user-images.githubusercontent.com/119300043/212154018-0d33190e-abf2-4520-a702-3ddb5beca79c.mp4
+https://user-images.githubusercontent.com/119300043/212156821-8c6120a3-c434-4c88-9fdb-f43c4f6bf93c.mp4
